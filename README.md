@@ -58,8 +58,8 @@ The project has **two major components**:
 
 1. Clone this repo:  
    ```bash
-   git clone https://github.com/your-username/aircraft-damage-and-captioning.git
-   cd aircraft-damage-and-captioning
+   git clone https://github.com/buildwithmehul/Aircraft-Damage-Detection-and-BLIP-Captioning.git
+   cd Aircraft-Damage-Detection-and-BLIP-Captioning
 
 2. Install dependencies:
    ```bash
