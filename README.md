@@ -86,8 +86,8 @@ The project has **two major components**:
 
 | Image | Prediction |
 |-------|------------|
-| ![crack](sample_images/crack.jpg) | Crack |
-| ![dent](sample_images/dent.jpg)   | Dent |
+| ![crack](https://www.rpxtech.com/uploads/9/3/3/2/93321990/an-2-fatigue-crack.jpeg) | Crack |
+| ![dent](https://scientificconceptsartandlife.wordpress.com/wp-content/uploads/2017/06/unnamed-1.jpg)   | Dent |
 
 ---
 
@@ -106,7 +106,7 @@ BLIP generates captions for unseen images:
 ## 📜 Certificate  
 
 This project was submitted as part of my completion for **Introduction to Deep Learning & Neural Networks with Keras (IBM)**.  
-🎓 Certificate available here → [Add your certificate image/link]  
+🎓 Certificate available here → [Introduction to Deep Learning & Neural Networks with Keras](https://coursera.org/share/40fb6ada98f5b1a6eaf51a181abf2c7c)
 
 ---
 
