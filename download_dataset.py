@@ -26,3 +26,19 @@ if os.path.exists(extracted_folder):
 with tarfile.open(tar_filename, "r") as tar_ref: 
     tar_ref.extractall() # This will extract to the current directory 
     print(f"Extracted {tar_filename} successfully.")
+
+
+#The folder structure looks as follows:
+"""
+python
+aircraft_damage_dataset_v1/
+├── train/
+│   ├── dent/
+│   └── crack/
+├── valid/
+│   ├── dent/
+│   └── crack/
+└── test/
+    ├── dent/
+    └── crack/
+    """
