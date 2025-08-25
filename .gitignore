@@ -1,0 +1,9 @@
+#Ignore venv files
+venv/
+
+# Ignore dataset folders
+aircraft_damage_dataset_v1/
+*.tar
+*.zip
+*.jpg
+*.png
