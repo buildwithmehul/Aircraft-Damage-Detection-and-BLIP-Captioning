@@ -27,3 +27,26 @@ The project has **two major components**:
 - **Tools:** Jupyter Notebook, Google Colab  
 
 ---
+
+## 📂 Project Structure  
+
+<pre>
+  
+├──aircraft_damage_dataset_v1/
+|  ├── train/
+|  │   ├── dent/
+|  │   └── crack/
+|  ├── valid/
+|  │   ├── dent/
+|  │   └── crack/
+|  └── test/
+|      ├── dent/
+|      └── crack/ 
+├── aircraft_damage_dataset_v1.tar
+├── Damage_Detection_and_BLIP_Captioning # BLIP caption generation
+├── download_dataset.py                  # Download the dataset
+├── requirements.txt                     # Required dependencies
+├── .gitignore                           # Avoid venv and dataset
+└── README.md                            # Project documentation
+  
+</pre>
