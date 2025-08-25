@@ -6,7 +6,7 @@ This repository contains my **Final Project** for the course:
 The project has **two major components**:  
 
 1. **Aircraft Damage Classification** – A **Convolutional Neural Network (CNN)** with **Transfer Learning (VGG16)** to classify aircraft damages into **Cracks vs. Dents**.  
-2. **Image Caption Generation** – Using **BLIP (Bootstrapping Language-Image Pretraining)** to generate meaningful captions for images.  
+2. **Image Caption Generation** – Using **BLIP (Bootstrapping Language-Image Pretraining)** to generate meaningful captions for unseen images.  
 
 ---
 
@@ -25,7 +25,7 @@ The project has **two major components**:
 - **Frameworks:** TensorFlow, Keras, PyTorch  
 - **Models:** CNN, VGG16 (Transfer Learning), BLIP  
 - **Languages:** Python  
-- **Tools:** Jupyter Notebook, Google Colab  
+- **Tools:** Jupyter Notebook 
 
 ---
 
@@ -89,7 +89,6 @@ The project has **two major components**:
 | ![crack](https://www.rpxtech.com/uploads/9/3/3/2/93321990/an-2-fatigue-crack.jpeg) | Crack |
 | ![dent](https://scientificconceptsartandlife.wordpress.com/wp-content/uploads/2017/06/unnamed-1.jpg)   | Dent |
 
----
 
 ### Image Caption Generation (BLIP)  
 
@@ -112,7 +111,20 @@ This project was submitted as part of my completion for **Introduction to Deep L
 
 ## 🙌 Acknowledgements
 
-- IBM: Introduction to Deep Learning & Neural Networks with Keras
-- OpenAI BLIP Model
-= Aircraft damage dataset (publicly available)
-   
+- IBM Skills Network : Introduction to Deep Learning & Neural Networks with Keras
+- BLIP (Bootstrapping Language-Image Pretraining) by Salesforce
+- Aircraft damage dataset (publicly available)
+
+---
+
+## 👤 Author
+
+Mehul Khanna
+🔗 [Linkedin](https://www.linkedin.com/in/mehul-khanna-776426288/)
+🔗 [Github](https://github.com/buildwithmehul)
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License. — see the [LICENSE](https://github.com/buildwithmehul/aircraft-damage-detection-and-BLIP-captioning/blob/main/LICENSE) file for details.
